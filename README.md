@@ -20,4 +20,13 @@ depends on the login credentials the functionality changes.
 
 4. if you dont like the images then change the image inn "CollegeERP-main\dbmserp\dbms\static\images" this directory
 
-5. "CollegeERP-main\dbmserp\db.sqlite3" this file contains all the data bases if you wanna change anything make sure to download any kind of sql manager in the system. 
+5. "CollegeERP-main\dbmserp\db.sqlite3" this file contains all the data bases if you wanna change anything make sure to download any kind of sql manager in the system.
+
+6. cmds to run -> navigating to the directory:
+   "cd /dbmserp"
+   
+4. Run migrations to set up the database:
+   "python manage.py migrate"
+
+5. Start the development server:
+   "python manage.py runserver"
