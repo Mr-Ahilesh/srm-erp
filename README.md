@@ -2,11 +2,7 @@
 erp of srm
 
 1. there is too much files there in that folder so couldn't directly upload that on git
-2. need to change 3 pictures in "CollegeERP-main\dbmserp\dbms\static\images"
-            *Astha.jpeg to picture team mate
-            *Priyanshu.jpeg to 2nd team mate 
-            *Sanskar,jpeg to 3rd team mate
-            *Vinayak,jpeg to 4th team mate
+2. need to change 3 pictures in "CollegeERP-main\dbmserp\dbms\static\images"   *Astha.jpeg to picture team mate   *Priyanshu.jpeg to 2nd team mate  *Sanskar,jpeg to 3rd team mate   *Vinayak,jpeg to 4th team mate
 3.CollegeERP-main\CollegeERP-main\dbmserp\templates\contact.html make sure to change this contents in this file as well 
     if you don't want the hussle, juz comment 106 - 165 in contact.html page
 
