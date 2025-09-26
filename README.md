@@ -20,7 +20,7 @@ Password 2 - abcd1efgh
 Username 3 - Student
 Password 3 - abcd1efgh
 
-depends on the login credentials the functionality depends.
+depends on the login credentials the functionality changes.
 
 4. if you dont like the images then change the image inn "CollegeERP-main\dbmserp\dbms\static\images" this directory
 
